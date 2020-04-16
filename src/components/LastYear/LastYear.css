@@ -1,0 +1,36 @@
+.LastYearSection {
+    clear: both;
+    overflow: hidden;
+    padding: 70px 0;
+    background: #efefef;
+}
+
+.LastYearSection-Inner {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.LastYearSection-Title {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
+.LastYearSection-Text {
+    width: 50%;
+    float: left;
+    padding-right: 150px;
+    margin-top: 70px;
+}
+
+.LastYearSection-Figure {
+    width: 50%;
+    float: left;
+    height: 350px;
+}
+
+.LastYearSection-Image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
