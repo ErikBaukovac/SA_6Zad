@@ -53,6 +53,7 @@
 }
 
 .BoxFooter-Btn {
+  align-self: center;
   font-weight: bold;
   transition: color 0.3s ease-out;
 }

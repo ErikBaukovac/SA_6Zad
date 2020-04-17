@@ -4,7 +4,7 @@ import './Info.css';
 
 const Info = (props) => {
     return (
-        <section className="InfoSection">{props.children}</section>
+        <section className="Info">{props.children}</section>
     );
 }
 

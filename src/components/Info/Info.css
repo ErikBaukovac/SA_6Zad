@@ -8,7 +8,7 @@
 .Info .Box {
     margin-bottom: 40px;
 }
-/*
+
 @media only screen and (min-width: 576px){
     .Info .Box {
         margin: inherit;
@@ -33,4 +33,4 @@
         gap: 30px;
         padding: 0;
     }
-}*/
+}
