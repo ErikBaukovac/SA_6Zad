@@ -13,7 +13,7 @@ const Header = () => {
 
         <header className="Header">
             <div className="Header-Inner">
-                <Link className="LogoContainer" to="/">
+                <Link to="/" className="LogoContainer">
                     <img className="LogoContainer-Image" src={Logo} alt="Logo" />
                 </Link>
                 <nav className="Header-Nav">
@@ -23,8 +23,8 @@ const Header = () => {
                             <Link className="Header-NavLink" to="/events">{links.events}</Link>
                         </li>
 
-                        <li className="Header-NavListItem">
-                            <Link className="Header-NavLink" to="/speakers">{links.speakers}</Link>
+                        <li className="Header-NavListItem"><Link to="/speakers">
+                            {links.speakers}</Link>
                         </li>
 
                     </ul>
