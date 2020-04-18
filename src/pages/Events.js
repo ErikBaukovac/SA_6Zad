@@ -7,6 +7,7 @@ const Events = () => {
     return (
         <>
             <Info>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -15,6 +16,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -23,6 +25,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -31,6 +34,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -39,6 +43,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -47,6 +52,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -55,6 +61,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -63,6 +70,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -71,6 +79,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
                 <Box
                     type="event"
                     title="How can we benefit from React Redux"
@@ -79,6 +88,7 @@ const Events = () => {
                     Latin literature from 45 BC, making it over 2000 years old. Richard McClintock,
                     a Latin professor at Hampden-Sydney College in Virginia, looked up one.
                 </Box>
+
             </Info>
         </>
     );

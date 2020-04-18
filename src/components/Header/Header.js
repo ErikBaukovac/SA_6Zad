@@ -12,10 +12,13 @@ const Header = () => {
     return (
 
         <header className="Header">
+
             <div className="Header-Inner">
+
                 <Link to="/" className="LogoContainer">
                     <img className="LogoContainer-Image" src={Logo} alt="Logo" />
                 </Link>
+
                 <nav className="Header-Nav">
                     <ul className="Header-NavList">
 
@@ -29,7 +32,9 @@ const Header = () => {
 
                     </ul>
                 </nav>
+
             </div>
+
         </header>
     );
 }

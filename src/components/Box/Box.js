@@ -13,10 +13,10 @@ const Box = (props) => {
             <div className="Box">
 
                 <div className="Box-Header">
-                    <div className="Box-Icon-Event">
 
-                    </div>
+                    <div className="Box-Icon-Event"></div>
                     <h2 className="Box-Title">{props.title}</h2>
+
                 </div>
 
                 <div className="Box-Info">
